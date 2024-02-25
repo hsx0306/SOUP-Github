@@ -1,4 +1,5 @@
 # SOUP-Github 협업 안내자료
+
 ![2024강의자료 github협업안내-1](https://github.com/user-attachments/assets/14fa7bb3-ab8e-4a8c-bfa0-d33370b61dbe)
 ![2024강의자료 github협업안내-2](https://github.com/user-attachments/assets/aa999d37-2e1a-43e7-ae66-86bc1b4428b1)
 ![2024강의자료 github협업안내-3](https://github.com/user-attachments/assets/f08b21e2-c288-457e-b997-2747f9d316c3)
@@ -16,5 +17,5 @@
 ![2024강의자료 github협업안내-15](https://github.com/user-attachments/assets/ce07a997-1350-4677-9aa3-a8a67de496e0)
 ![2024강의자료 github협업안내-16](https://github.com/user-attachments/assets/ce61b41d-96a1-4822-a0c3-ecf684a1a608)
 ![2024강의자료 github협업안내-17](https://github.com/user-attachments/assets/761d3704-d3a1-44cd-8f5e-0b22a47310d5)
-![2024강의자료 github협업안내-18](https://github.com/user-attachments/assets/56f3a86a-10a5-4321-89c2-624f31822020)
+
 ![2024강의자료 github협업안내-19](https://github.com/user-attachments/assets/99a1615c-9448-4637-9675-5162ede869ca)
